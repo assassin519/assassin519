@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻🌐 Blockchain Developer 🌐🕵️‍♀️ &nbsp;</div>
  
-- 👋 Hello, I’m @Assassin519 🥷
+- 👋 Hello, I’m @assassin519 🥷
 - ❤️ I love Coding and Debuging 👨‍💻
 - 📜 I'm currently a Solana, Solidity, Smart Contract developer. 💪
 - 👀 Interested in Web Development and Blockchain. 🤩
@@ -139,20 +139,20 @@
 
 # 📊 GitHub Activities:
 <p align="center" width='100%'>
-  <a href="https://github.com/Assassin519?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Assassin519&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" height="250px" alt="@Assassin519's github-readme-stats"/>
+  <a href="https://github.com/assassin519?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=assassin519&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" height="250px" alt="@assassin519's github-readme-stats"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assassin519&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" width='48%' height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assassin519&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" width='48%' height="250px" />
 </p>
 <!-- activity graph heroku-app start -->
 <p align="center" width='100%'>
-    <a href="https://wakatime.com/@Assassin519">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Assassin519&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@assassin519">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=assassin519&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <div align='center' width='100%'>
-  <a href="https://github.com/Assassin519?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Assassin519&theme=onestar&no-frame=true&column=8&row=1"  height="250px" alt="@Assassin519's trophy stats"/>
+  <a href="https://github.com/assassin519?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=assassin519&theme=onestar&no-frame=true&column=8&row=1"  height="250px" alt="@assassin519's trophy stats"/>
   </a>
 </div>
 
